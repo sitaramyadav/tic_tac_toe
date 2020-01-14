@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+code {
+  font-family: Monacos, Consolas, "Courier New",
+    monospace;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
